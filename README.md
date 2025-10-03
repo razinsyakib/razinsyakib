@@ -5,19 +5,19 @@
 
 - 👨‍💻 All of my projects are available at [https://razinsyakib.my.id/](https://razinsyakib.my.id/) 
 
-- 📫 How to reach me **muhammadrazin14@gmail.com**
+- 📫 How to reach me **razinsyakib@gmail.com**
 
 ### My Bio 📄
-In my final year, I am an informatics student passionate about software and website development. I have internship experience as a back-end developer at Fishku Indonesia, where I have expertise in building and managing web, RESTful API, and backend systems. Proficient in JavaScript, TypeScript, Express, Node.js, SQL, and Google Cloud Platform. Strong teamwork and communication skills with a commitment to continuous learning. Eager to contribute to innovative technology projects and organizations. 💻🌱
+Computer Science graduate with internship experience as a Backend developer at Fishku Indonesia. Skilled in building backend systems, managing databases, and cloud computing. Comfortable working with Node.js, JavaScript, TypeScript, Express.js, PostgreSQL, MongoDB, Redis, and Google Cloud. I’m actively improving my teamwork and communication skills through collaborative projects, and I’m committed to contributing and making a positive impact on the team. 💻🌱
 
-Web Developer | Back-End Engineer | Software Engineer | Cloud Engineer
+Backend Developer | Cloud Engineer
 
 ### My Skills 🔥
-[![RazinSyakib43's Skills](https://skillicons.dev/icons?i=js,ts,nodejs,bun,express,postgres,redis,supabase,sequelize,firebase,postman,linux,ubuntu,docker,gcp,astro,react,tailwind,git)](https://skillicons.dev)
+[![RazinSyakib's Skills](https://skillicons.dev/icons?i=js,ts,nodejs,bun,express,postgres,redis,supabase,sequelize,firebase,postman,linux,ubuntu,docker,gcp,astro,react,tailwind,git)](https://skillicons.dev)
 
 ### My Stats ⚡
-![Github stats](https://github-readme-stats.vercel.app/api?username=razinsyakib43&theme=blueberry&count_private=true&hide_border=true&line_height=20) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RazinSyakib43&hide=php,html,css,hack,java,c%2B%2B,Objective%2DC,Objective%2DC%2B%2B,ruby,starlark,cmake&exclude_repo=New-ParentCare,SekawanVehicle,Zeen-Blog,nyobarevert&layout=compact&theme=blueberry&count_private=true&hide_border=true) 
+![Github stats](https://github-readme-stats.vercel.app/api?username=razinsyakib&theme=blueberry&count_private=true&hide_border=true&line_height=20) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RazinSyakib&hide=php,html,css,hack,java,c%2B%2B,Objective%2DC,Objective%2DC%2B%2B,ruby,starlark,cmake&exclude_repo=New-ParentCare,SekawanVehicle,Zeen-Blog,nyobarevert&layout=compact&theme=blueberry&count_private=true&hide_border=true) 
 
 ### Connect with Me! 🫱🏻‍🫲🏼
 [![Email: muhammadrazin14@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadrazin14@gmail.com)&nbsp;
