@@ -13,7 +13,7 @@ Computer Science graduate with internship experience as a Backend developer at F
 Backend Developer | Cloud Engineer
 
 ### My Skills 🔥
-[![RazinSyakib's Skills](https://skillicons.dev/icons?i=js,ts,nodejs,bun,express,postgres,redis,supabase,sequelize,firebase,postman,linux,ubuntu,docker,gcp,astro,react,tailwind,git)](https://skillicons.dev)
+[![RazinSyakib's Skills](https://skillicons.dev/icons?i=js,ts,nodejs,bun,express,postgres,redis,mongodb,supabase,sequelize,postman,linux,ubuntu,git,docker,firebase,gcp)](https://skillicons.dev)
 
 ### My Stats ⚡
 ![Github stats](https://github-readme-stats.vercel.app/api?username=razinsyakib&theme=blueberry&count_private=true&hide_border=true&line_height=20) 
