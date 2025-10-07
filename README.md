@@ -12,6 +12,12 @@ Computer Science graduate with internship experience as a Backend developer at F
 
 Backend Developer | Cloud Engineer
 
+#### Fun Facts
+* I like cats, but don't have one
+* Coffee addict
+* Naruto is my favourite anime
+* **Hobbies:** anime, gym, building things
+
 ### My Skills 🔥
 [![RazinSyakib's Skills](https://skillicons.dev/icons?i=js,ts,nodejs,bun,express,postgres,redis,mongodb,supabase,sequelize,postman,linux,ubuntu,git,docker,firebase,gcp)](https://skillicons.dev)
 
