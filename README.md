@@ -22,7 +22,10 @@ Backend Developer | Cloud Engineer
 [![RazinSyakib's Skills](https://skillicons.dev/icons?i=js,ts,nodejs,bun,express,postgres,redis,mongodb,supabase,sequelize,postman,linux,ubuntu,git,docker,firebase,aws,gcp)](https://skillicons.dev)
 
 ### My Stats ⚡
-https://github-readme-activity-graph.vercel.app/graph?username=razinsyakib&theme=react-dark
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=razinsyakib&theme=react-dark" alt="GitHub Activity Graph" />
+</p>
 
 ### Connect with Me! 🫱🏻‍🫲🏼
 [![Email: muhammadrazin14@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadrazin14@gmail.com)&nbsp;
