@@ -8,7 +8,7 @@
 - 📫 How to reach me **razinsyakib@gmail.com**
 
 ### My Bio 📄
-Computer Science graduate with internship experience as a Backend developer at Fishku Indonesia. Skilled in building backend systems, managing databases, and cloud computing. Comfortable working with Node.js, JavaScript, TypeScript, Express.js, PostgreSQL, MongoDB, Redis, and Google Cloud. I’m actively improving my teamwork and communication skills through collaborative projects, and I’m committed to contributing and making a positive impact on the team. 💻🌱
+Computer Science graduate with internship experience as a Backend developer at Fishku Indonesia. Skilled in building backend systems, managing database, and cloud computing. Comfortable working with Node.js, JavaScript, TypeScript, Express.js, PostgreSQL, Redis, and AWS Cloud. I’m actively improving my teamwork and communication skills through collaborative projects, and I’m committed to contributing and making a positive impact on the team. 💻🌱
 
 Backend Developer | Cloud Engineer
 
