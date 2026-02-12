@@ -19,11 +19,10 @@ Backend Developer | Cloud Engineer
 * **Hobbies:** anime, gym, building things
 
 ### My Skills 🔥
-[![RazinSyakib's Skills](https://skillicons.dev/icons?i=js,ts,nodejs,bun,express,postgres,redis,mongodb,supabase,sequelize,postman,linux,ubuntu,git,docker,firebase,gcp)](https://skillicons.dev)
+[![RazinSyakib's Skills](https://skillicons.dev/icons?i=js,ts,nodejs,bun,express,postgres,redis,mongodb,supabase,sequelize,postman,linux,ubuntu,git,docker,firebase,aws,gcp)](https://skillicons.dev)
 
 ### My Stats ⚡
-![Github stats](https://github-readme-stats.vercel.app/api?username=razinsyakib&theme=blueberry&count_private=true&hide_border=true&line_height=20) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RazinSyakib&hide=php,html,css,hack,java,c%2B%2B,Objective%2DC,Objective%2DC%2B%2B,ruby,starlark,cmake&exclude_repo=New-ParentCare,SekawanVehicle,Zeen-Blog,nyobarevert&layout=compact&theme=blueberry&count_private=true&hide_border=true) 
+https://github-readme-activity-graph.vercel.app/graph?username=razinsyakib&theme=react-dark
 
 ### Connect with Me! 🫱🏻‍🫲🏼
 [![Email: muhammadrazin14@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadrazin14@gmail.com)&nbsp;
