@@ -27,7 +27,7 @@ Backend Developer | Cloud Engineer
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=razinsyakib&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
 
-### Connect with Me! 🫱🏻‍🫲🏼
+### Connect with Me! 👍
 [![Email: muhammadrazin14@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadrazin14@gmail.com)&nbsp;
 [![LinkedIn: Muhammad Razin Syakib](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-razin-syakib/)&nbsp;
 [![Discord: Zeen#5482](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/706507324642295809)&nbsp;
